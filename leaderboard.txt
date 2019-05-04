@@ -1,0 +1,13 @@
+Abhi	110
+Jeremy	105
+Max	15
+Maya	50
+Krishna	0
+Krishna	10
+Max	25
+Max	25
+Krishna	355
+Max	240
+Maya	375
+Udy	485
+k	0
